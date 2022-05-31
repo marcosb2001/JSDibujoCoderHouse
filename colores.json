@@ -1,0 +1,10 @@
+[
+    {"id": "color1", "class": "clr", "dat": "#000"},
+    {"id": "color2", "class": "clr", "dat": "#808000"},
+    {"id": "color3", "class": "clr", "dat": "#2e62ca"},
+    {"id": "color4", "class": "clr", "dat": "#3b971f"},
+    {"id": "color5", "class": "clr", "dat": "#f93636"},
+    {"id": "color6", "class": "clr", "dat": "#c3bc8d"},
+    {"id": "color7", "class": "clr", "dat": "#785b5b"},
+    {"id": "color8", "class": "clr", "dat": "#ffffff"}
+  ]
