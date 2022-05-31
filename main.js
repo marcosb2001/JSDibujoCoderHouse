@@ -1,7 +1,7 @@
 /*
 ////////////////////////    JSDibujo para final CODERHOUSE JavaScript 36930    /////////////////////////////////////////
 Hola profe! Ésta es una versión adaptada de un programa que estaba desarrollando por diversión hace unos días llamada JSDibujo.
-Decidí adaptarla para la entrega final después de que me convencieran, cambiando un poco de su funcionalidad.
+Decidí adaptarla para la entrega final después de que me convenciera mi novia, cambiando un poco de su funcionalidad.
 La historia de commits comienza con el programa relativamente desarrollado, las actualizaciones/commits anteriores se pueden encontrar en el repositorio del JSDibujo original: https://github.com/marcosb2001/jsDibujo
 Quería mantener ambas versiones separadas ya que planeo seguir trabajando en el programa en el futuro y no toda la funcionalidad que agregue a esta versión me es útil para mi idea final.
 */
